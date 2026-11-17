@@ -4,8 +4,8 @@
 Ограничить доступ к системе для всех пользователей, кроме группы администраторов, в выходные дни (суббота и воскресенье), за исключением праздничных дней.
 
 Решение:
-``C:\Application\Vagrant\PAM>vagrant box list
-almalinux-9  (virtualbox, 0, (amd64))
-ubuntu-26.04 (virtualbox, 0, (amd64))``
+C:\Application\Vagrant\PAM>vagrant box list
+``almalinux-9  (virtualbox, 0, (amd64))``
+``ubuntu-26.04 (virtualbox, 0, (amd64))``
 
 Дальнейшая настройка перенесена в Vagrantfile
