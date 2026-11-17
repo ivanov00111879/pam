@@ -5,7 +5,7 @@
 
 Решение:
 C:\Application\Vagrant\PAM>vagrant box list
-``almalinux-9  (virtualbox, 0, (amd64))``
-``ubuntu-26.04 (virtualbox, 0, (amd64))``
+almalinux-9  (virtualbox, 0, (amd64))
+ubuntu-26.04 (virtualbox, 0, (amd64))
 
 Дальнейшая настройка перенесена в Vagrantfile
